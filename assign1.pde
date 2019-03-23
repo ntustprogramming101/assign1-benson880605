@@ -7,7 +7,7 @@
   PImage soldier;
   PImage groundHog;
   
-  int soldierX = 80 ;
+  int soldierX = -80 ;
   int soldierY = 160+80*floor(random(4));
   int robotX = 80*floor(random(2,7));
   int robotY = 160+80*floor(random(4));
